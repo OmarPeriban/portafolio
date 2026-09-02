@@ -255,3 +255,12 @@ footer{
   object-fit:cover;
   object-position:center 20%;
 }
+.card-img {
+  width: 100%;
+  max-width: 200px;     
+  height: auto;         
+  object-fit: contain;  
+  display: block;
+  margin: 0 auto 16px auto; 
+  border-radius: 6px;
+}
